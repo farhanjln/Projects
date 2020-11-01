@@ -1,1 +1,1 @@
-# This is my data science workbench as the begginer 
+# This is my data science workbench as the beginner 
