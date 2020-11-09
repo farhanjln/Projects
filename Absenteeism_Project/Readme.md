@@ -1,1 +1,1 @@
-## Use the module ahead on the new_metadata folder
+## Use the absenteeism_module ahead on the new_metadata folder
